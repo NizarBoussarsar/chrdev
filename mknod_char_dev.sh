@@ -1,3 +1,5 @@
+#!/bin/bash
+
 rm -f /dev/cbstat
 rm -f /dev/cutbuf1
 rm -f /dev/cutbuf2
